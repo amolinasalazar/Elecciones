@@ -1,7 +1,7 @@
 # Elecciones
-Small program that counts and summarize the results of votes regarding the Spanish laws for the presidential election.
+Small script that simulates a Spanish presidential election process and summarize the results of votes according to the D'Hont law: https://es.wikipedia.org/wiki/Sistema_D%27Hondt.
 
-Made during my early years of student in the University of Granada.
+Made as a student project in the University of Granada.
 
 USAGE: 
 % ./parlamento entry_data [city]
